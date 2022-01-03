@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shishir Biyyala
-- 👀 I’m interested in everything about Software engineering - product delivery, leadership, and management  
+- 👀 I’m interested in everything about Software - engineering, product, leadership, and management  
 - 🌱 I’m currently growing high-performing engineering teams, and learning graphQL and golang in my free time 
 - 📫 Drop me an [email](mailto:shishir.biyyala@gmail.com) if you'd like to get in touch! 
 
